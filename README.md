@@ -41,7 +41,3 @@
 - LinkedIn: https://www.linkedin.com/in/birupakshya-mahakul/
 - Email: birupakshya.mahakul.17@gmail.com
 
----
-
-## ⚡ Fun Fact
-I debug code faster when I have snacks 🍕😄
